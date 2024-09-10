@@ -1,0 +1,26 @@
+.nav-con{
+    width: 100% !important;
+}
+.logo{
+    height: 90vh;
+}
+.para{
+    font-size: 15px;
+    margin: 6px;
+}
+.logo{
+    border-radius: 10px;
+}
+.lay{
+    margin-top: 40px;
+}
+.img{
+    height: 300px;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    height: 300px;
+    margin-top: 50px;
+}
